@@ -1,7 +1,0 @@
-
-use('Bootcamp');
-
-
-db.students.find({ isTeamLead: true });
-
-
