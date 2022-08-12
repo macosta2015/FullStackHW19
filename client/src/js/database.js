@@ -11,6 +11,9 @@ const initdb = async () =>
       console.log('jate database created');
     },
   });
+
+
+  
   export const putDb = async (content) => {
     console.log('PUT to the database');
     const jateDb = await openDB('jate', 1);
