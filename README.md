@@ -54,7 +54,12 @@ This are the main technologies used. Other not listed below are Heroku, IndexedD
 
 <!-- USAGE EXAMPLES -->
 ### USAGE
-Please follow the YouTube tutorial for Heroku deployment 
+In order to run the code we will need to run the webpack. 
+
+The biggest challenge was uploading in into Heroku:
+https://id.heroku.com/login
+The good news is that you are able to connect Github into Heroku. In this way it is possible to go live by not using the terminal. Some scripts need to be added, please check the package.json files.
+Please follow the YouTube tutorial for Heroku deployment.
 https://www.youtube.com/watch?v=KD9OaryS1Kw
 
 
