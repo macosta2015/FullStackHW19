@@ -54,7 +54,7 @@ This are the main technologies used. Other not listed below are Heroku, IndexedD
 
 <!-- USAGE EXAMPLES -->
 ### USAGE
-In order to run the code we will need to run the webpack. 
+In order to run the code we will need to run webpack. 
 
 The biggest challenge was uploading in into Heroku:
 https://id.heroku.com/login
