@@ -58,7 +58,7 @@ This are the main technologies used. Other not listed below are Heroku, IndexedD
 
 
 <!-- USAGE EXAMPLES -->
-### Installation
+### USAGE
 
 
 
