@@ -40,7 +40,7 @@ One of the features that we are able to see from PWA is that you are able to use
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This are the main technologies used. Other not listed below are Heroku, IndexedDB, Webpack, Workbox
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
