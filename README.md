@@ -54,8 +54,8 @@ This are the main technologies used. Other not listed below are Heroku, IndexedD
 
 <!-- USAGE EXAMPLES -->
 ### USAGE
-<!-- https://www.youtube.com/watch?v=KD9OaryS1Kw -->
-<!-- Please follow the YouTube tutorial for Heroku deployment -->
+https://www.youtube.com/watch?v=KD9OaryS1Kw
+Please follow the YouTube tutorial for Heroku deployment 
 
 
 
