@@ -29,6 +29,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Our application has the PWA criteria. PWA stands for progressive web application. Mostly we are building the code in common web development lnaguages like HTML, CSS and JS as compared to native application that use Java (Android) and Swift (IOS). 
+
+One of the features that we are able to see from PWA is that you are able to use the application without internet. You can refresh the browser and the information will be there. 
+
 ![Screen Shot 2022-08-12 at 5 39 27 PM](https://user-images.githubusercontent.com/25726054/184448336-00ad8355-7742-4792-b302-76b6727056b1.png)
 
 
